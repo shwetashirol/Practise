@@ -26,6 +26,7 @@ public class Basic2 {
 			{
 				System.out.println("given name is not palliandrome");
 				System.out.println("New line");
+				
 			
 			}
 		public static void main(String[] args) {

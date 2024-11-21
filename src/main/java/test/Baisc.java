@@ -6,7 +6,8 @@ public class Baisc {
 	public static void main(String[] args) {
 		
 		String c = "Hello i love java";
-		boolean var;           var = c.startsWith("hello");
+		boolean var;          
+		var = c.startsWith("hello");
 		System.out.println(var);
 		
 //		StringBuffer s1 = new StringBuffer("Quiz");
